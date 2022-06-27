@@ -22,7 +22,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SVG2JSX](https://svg2jsx.com/) -> Converter de SVG para JSX
 - [Phosphor Icons](https://phosphoricons.com/) -> Biblioteca de Icones
 - [Date FNS](https://date-fns.org) -> Formatar a data
-- [VimeJS](vimejs.com) -> Biblioteca player de video
+- [VimeJS](https://vimejs.com) -> Biblioteca player de video
+- [GraphQL Code Generator](https://www.graphql-code-generator.com/)
 
 ## 💻 Projeto
 
