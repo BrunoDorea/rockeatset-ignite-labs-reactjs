@@ -3,11 +3,15 @@
 </h1>
 
 <p align="center">
-  <a href="https://ignite-labs-reactjs.vercel.app/">Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="https://ignite-labs-reactjs.vercel.app/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">🖥️ Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">📝 License</a>
 </p>
+
+## 💻 Projeto
+
+Plataforma de evento com a parte de cadastro/inscrição e parte do conteúdo.
 
 ## 🚀 Tecnologias
 
@@ -25,23 +29,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [VimeJS](https://vimejs.com) -> Biblioteca player de video
 - [GraphQL Code Generator](https://www.graphql-code-generator.com/)
 
-## 💻 Projeto
-
-Plataforma de evento com a parte de cadastro/inscrição e parte do conteúdo.
-
-## :memo: Licença
+## 📝 License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
-
----
-
-## Aulas
-
-- Abertura ✔️
-- Aula 1 • O início da especialização em ReactJS ✔️
-- Aula 2 • Estrutura visual do projeto
-- Aula 3 •
-- Aula 4 •
-- Aula 5 •
 
 ---
